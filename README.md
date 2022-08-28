@@ -12,7 +12,8 @@ GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle 
 
 Para acessar esse serviço acesse o link:  https://github.com/ 
 
-É necessário fazer o cadastro na plataforma. Acesse o link e clique em **Sign Up**, caso já tenha um cadastro clique em **sign in**.
+É necessário fazer o cadastro na plataforma. Acesse o link e clique em **Sign Up**, caso já tenha um cadastro clique em **sign in**.<br>
+Se faz necessário reforçar que, quando instalamos o Git em uma máquina, ainda se faz necessário ter essa conta na plataforma para ter acesso a mesma e ter condições de desfrutar das vantagens que a plataforma oferece, já que a partir do momento que os seus arquivos estão salvos em seu Git, podemos transferi-los ao Github e com isso teremos a segurança de ter os arquivos salvos em nuvem(servidor do Github), com isso caso tenha problemas em seu computador, ou precisarmos fazer uso desses arquivos em outro computador com acesso a internet, poderemos ter acesso a estes através de nosso acesso a plataforma, ainda é possível compartilhar com sua equipe ou colegas estes arquivos.
 <img src="https://files.fm/thumb_show.php?i=adnu5qafx">
 
 ## Configurações do Git 
