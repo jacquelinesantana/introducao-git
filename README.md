@@ -16,7 +16,7 @@ Para acessar esse serviço acesse o link:  https://github.com/
 Se faz necessário reforçar que, quando instalamos o Git em uma máquina, ainda se faz necessário ter essa conta na plataforma para ter acesso a mesma e ter condições de desfrutar das vantagens que a plataforma oferece, já que a partir do momento que os seus arquivos estão salvos em seu Git, podemos transferi-los ao Github e com isso teremos a segurança de ter os arquivos salvos em nuvem(servidor do Github), com isso caso tenha problemas em seu computador, ou precisarmos fazer uso desses arquivos em outro computador com acesso a internet, poderemos ter acesso a estes através de nosso acesso a plataforma, ainda é possível compartilhar com sua equipe ou colegas estes arquivos.
 <img src="https://files.fm/thumb_show.php?i=adnu5qafx">
 
-## Configurações do Git 
+## Configurações do Git
 
 A primeira coisa a se fazer é ter o nome de usuário do Git e e-mail, para isso vamos fazer o seguinte passo a passo, mas lembre-se que esse processo de 
 configuração do usuário e e-mail deve ser feito no primeiro uso da ferramenta e após isso não será necessário reconfigurar. Salvo o caso de ter sua máquina formatada.
@@ -62,7 +62,7 @@ Dica: leia o passo a passo e depois siga os passos com calma atentando-se de nã
 <img src="https://files.fm/thumb_show.php?i=b2xhawug7">
 Após criar o repositório vamos ter a visualização do mesmo, note que a primeira tela após a criação do repositório já nos trás algumas instruções e linhas de códigos que vamos melhor entender nos próximos passos<br>
 <img src="https://files.fm/thumb_show.php?i=ph8x9vaeg">
-## Conectar o repositório do Github com o seu diretório local
+## Conectar o repositório do Github com o seu diretório local 
 <br>Vale destacar que poderemos ter diversos repositórios em nosso GitHub e desta forma organizar nossos projetos/serviços, crie quantos repositórios forem necessários.<br>
 
 1. Confirme se vc iniciou o seu Gitbash no diretório correto, acima sugerimos criar o diretório git-testes, vamos utilizar esse diretório
@@ -112,4 +112,7 @@ Após criar o repositório vamos ter a visualização do mesmo, note que a prime
 
    <img src="https://files.fm/thumb_show.php?i=5674ku6hx">
 
-   
+   ## Baixar atualização do Remoto(Github) para o diretório local
+   Lembrando que o Git pode ser utilizado entre equipes, devemos também nos atentar a como podemos atualizar em nossa máquina uma alteração que esta no Github
+   1. Primeira coisa a se fazer quando estamos trabalhando em equipe é usar o comando <code>git pull</code>
+    1.1 Esse comando acima garante que as atualizações que já estão no servidor sejam baixadas para sua máquina. **Lembre-se sempre de conversar com sua equipe antes de subir seus arquivos na nuvem**. 
