@@ -114,5 +114,5 @@ Após criar o repositório vamos ter a visualização do mesmo, note que a prime
 
    ## Baixar atualização do Remoto(Github) para o diretório local
    Lembrando que o Git pode ser utilizado entre equipes, devemos também nos atentar a como podemos atualizar em nossa máquina uma alteração que esta no Github
-   1. Primeira coisa a se fazer quando estamos trabalhando em equipe é usar o comando <code>git pull</code>
+   1. Primeira coisa a se fazer quando estamos trabalhando em equipe é usar o comando <code>git pull</code><br>
     1.1 Esse comando acima garante que as atualizações que já estão no servidor sejam baixadas para sua máquina. **Lembre-se sempre de conversar com sua equipe antes de subir seus arquivos na nuvem**. 
