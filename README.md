@@ -88,5 +88,28 @@ Após criar o repositório vamos ter a visualização do mesmo, note que a prime
 
 6. Feito vamos para a próxima linha que é alinhar e garantir que estamos trabalhando na branch correta, mais tarde vamos entender melhor o que essa banch significa e como manipular as branch, por hora entendemos que branch é uma forma de controlar qual versão do repositório vamos afetar nesse momento. Então execute o comando: <code>git branch -M main</code> e pressione o <code>Enter</code> do seu teclado.
 
-   6.1 Note a alteração no nosso gitbash após a execução desse comando
+   6.1 Note a alteração no nosso gitbash após a execução desse comando<br>
+   <img src="https://files.fm/thumb_show.php?i=8785pfhy7">
+  Lembre-se que a cada novo arquivo adicionado ou incluído nesse diretório para essa alteração seguir no seu Github é necessário seguir esses últimos passas de:
 
+   <pre>
+       <code>
+       	git add.
+       	git commit -m "mensagem explicando o que foi alterado resumidamente"
+           git push -u origin main
+       </code>
+   </pre>
+
+   <img src="https://files.fm/thumb_show.php?i=ekj9m3cns">
+
+   Ainda podemos ver as alterações, para isso clique sobre o arquivo dentro do Github e confira também a quanto tempo foi feita a ultima atualização.
+
+   <img src="https://files.fm/thumb_show.php?i=q6k4p3dda">
+
+   <img src="https://files.fm/thumb_show.php?i=ukvezb8sw">
+
+   Experimente adicionar novos arquivos dentro do diretório em seu computador 
+
+   <img src="https://files.fm/thumb_show.php?i=5674ku6hx">
+
+   
