@@ -82,4 +82,11 @@ Após criar o repositório vamos ter a visualização do mesmo, note que a prime
 
    4.1 Basicamente esse comando adiciona os arquivos que o Git vai trabalhar, ou seja, o que ele precisa se preocupar em acompanhar mudanças de estado para o versionamento. Quando utilizamos o ponto após a palavra add estamos indicando que todos os arquivos alterados/ adicionados devem ser adicionados 
 
-5. 
+5. O comando seguinte será o commit digite: <code>git commit -m "primeiro commint"</code> após isso pressione o <code>Enter</code> do seu teclado.
+
+   5.1 Esse comando faz uma ação que podemos entender como etiquetar a mudança que nosso repositório teve, esse passo é importante para sinalizar por exemplo que a alteração foi feita e assim ter maior controle sobre os status do seu repositório.
+
+6. Feito vamos para a próxima linha que é alinhar e garantir que estamos trabalhando na branch correta, mais tarde vamos entender melhor o que essa banch significa e como manipular as branch, por hora entendemos que branch é uma forma de controlar qual versão do repositório vamos afetar nesse momento. Então execute o comando: <code>git branch -M main</code> e pressione o <code>Enter</code> do seu teclado.
+
+   6.1 Note a alteração no nosso gitbash após a execução desse comando
+
