@@ -47,7 +47,7 @@ Para verificar os dados de configuração do seu Git execute o seguinte comando:
 *note que a imagem anterior, podemos ver que as ultimas duas linhas teremos os nossos dados, mas ATENÇÃO NÃO UTILIZE OS DADOS DA IMAGEM EM SUA CONFIGURAÇÃO, UTILIZE OS SEUS DADOS DE USUÁRIO CADASTRADO NO GITHUB E E-MAIL*
 
 ## Preparando um repositório no Github
-Vamos então criar nosso primeiro repósito remoto, no Github para podemos iniciar nosso processo de guardar arquivos em nuvem, ou seja, no servidor do Github.<br>
+<br>Vamos então criar nosso primeiro repósito remoto, no Github para podemos iniciar nosso processo de guardar arquivos em nuvem, ou seja, no servidor do Github.<br>
 Dica: leia o passo a passo e depois siga os passos com calma atentando-se de não pular nenhuma das etapas, siga exatamente como esta sendo conduzido esse manual para um melhor aproveitamento do material e depois se desafie em fazer outros repositórios sozinhe.<br>
 1. No seu painel do Github vamos e no menu do canto direito superior vamos escolher a opção YOUR REPOSITORIES<br>
 <img src="https://files.fm/thumb_show.php?i=kawfvfvn9">
@@ -62,12 +62,24 @@ Dica: leia o passo a passo e depois siga os passos com calma atentando-se de nã
 <img src="https://files.fm/thumb_show.php?i=b2xhawug7">
 Após criar o repositório vamos ter a visualização do mesmo, note que a primeira tela após a criação do repositório já nos trás algumas instruções e linhas de códigos que vamos melhor entender nos próximos passos<br>
 <img src="https://files.fm/thumb_show.php?i=ph8x9vaeg">
-## Conectar o repositório do Github com o seu diretório local.
-Vale destacar que poderemos ter diversos repositórios em nosso GitHub e desta forma organizar nossos projetos/serviços, crie quantos repositórios forem necessários.<br>
+## Conectar o repositório do Github com o seu diretório local
+<br>Vale destacar que poderemos ter diversos repositórios em nosso GitHub e desta forma organizar nossos projetos/serviços, crie quantos repositórios forem necessários.<br>
+
 1. Confirme se vc iniciou o seu Gitbash no diretório correto, acima sugerimos criar o diretório git-testes, vamos utilizar esse diretório
-<img src="https://files.fm/thumb_show.php?i=cnfs5ry2y">
+  <img src="https://files.fm/thumb_show.php?i=cnfs5ry2y">
+
 2. Vamos tornar esse diretório um diretório inicial para o Git com o comando <code>git init</code> pressione o <code>Enter</code> do seu teclado após digitar o comando.<br>
+
 3. Agora vamos criar algum arquivo dentro desse diretório para termos alguma alteração a ser detectada pelo Git
 
+   3.1 Abra o bloco de notas e escreva o texto: *primeiro arquivo dentro do repositório*
 
-1. 
+   3.2 Salve o arquivo dentro do diretório **git-testes** com o nome **arquivo1.txt** 
+
+   <img src="https://files.fm/thumb_show.php?i=sgj66qk75">
+
+4. Agora vamos executar o segundo comando só que com algumas alterações <code> git add .</code> após pressione o <code>Enter</code> do seu teclado 
+
+   4.1 Basicamente esse comando adiciona os arquivos que o Git vai trabalhar, ou seja, o que ele precisa se preocupar em acompanhar mudanças de estado para o versionamento. Quando utilizamos o ponto após a palavra add estamos indicando que todos os arquivos alterados/ adicionados devem ser adicionados 
+
+5. 
