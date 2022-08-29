@@ -35,13 +35,14 @@ O resultado esperado é ter a tela de Git Bash aberta, ver imagem do Git Bash:
 
 Agora sim, podemos configurar o Git conectando-o ao Github
 ### Configurar e-mail e usuário no Git
+Caso você já tenha executado esses comandos de configuração em seu computador esses passos não são necessários, você pode seguir para a próxima fase. 
 1. Para informar o usuário vamos executar o comando: git config --global user.name SEU-USUARIO-DO-GITHUB pressione o ENTER do teclado<br>
 2. Para informar o e-mail da conta Github executar o comando: git config --global user. email email_utilizado_na_conta_github@email.com pressione o ENTER do teclado
 <img src="https://files.fm/thumb_show.php?i=cyjpwg36t">
 
 ### exibir os dados de configuração do Git
 Para verificar os dados de configuração do seu Git execute o seguinte comando:<br>
-1. git config --list <br>
+1. <code>git config --list</code> <br>
 2. pressione o Enter do teclado para o comando ser executado.<br>
 <img src="https://files.fm/thumb_show.php?i=dcs47yyn3">
 *note que a imagem anterior, podemos ver que as ultimas duas linhas teremos os nossos dados, mas ATENÇÃO NÃO UTILIZE OS DADOS DA IMAGEM EM SUA CONFIGURAÇÃO, UTILIZE OS SEUS DADOS DE USUÁRIO CADASTRADO NO GITHUB E E-MAIL*
