@@ -94,7 +94,11 @@ Após criar o repositório vamos ter a visualização do mesmo, note que a prime
    6.1 Note a alteração no nosso gitbash após a execução desse comando<br>
    <img src="https://files.fm/thumb_show.php?i=8785pfhy7">
   Lembre-se que a cada novo arquivo adicionado ou incluído nesse diretório para essa alteração seguir no seu Github é necessário seguir esses últimos passas de:
+7. Execute o comando <code>git remote add origin https:seurepositorio-criado-no-github</code> para indicar o repositório remoto
+8. executar o comando <code>git push origin main</code> para ele subir as alterações para o seu repositório no Github
 
+
+### após os comandos acima sempre que for atualizar seu repositório adicionando mais arquivos seguir os passos
    <pre>
        <code>
        	git add.
