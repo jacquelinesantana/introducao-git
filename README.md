@@ -140,3 +140,5 @@ Após criar o repositório vamos ter a visualização do mesmo, note que a prime
 *Em caso de erros você pode copiar a mensagem de erro e fazer uma pesquisa no Google ou chamar seus instrutores.*
 <br> 
 Bons códigos e sucesso!
+Links úteis:
+<a href="https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A">https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A</a>
