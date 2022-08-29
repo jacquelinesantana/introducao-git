@@ -116,3 +116,16 @@ Após criar o repositório vamos ter a visualização do mesmo, note que a prime
    Lembrando que o Git pode ser utilizado entre equipes, devemos também nos atentar a como podemos atualizar em nossa máquina uma alteração que esta no Github
    1. Primeira coisa a se fazer quando estamos trabalhando em equipe é usar o comando <code>git pull</code><br>
     1.1 Esse comando acima garante que as atualizações que já estão no servidor sejam baixadas para sua máquina. **Lembre-se sempre de conversar com sua equipe antes de subir seus arquivos na nuvem**. 
+    
+   ### testar o git pull
+ 1. Acesse seu repositório no Github e abra o arquivo pelo navegador, conforme a imagem abaixo<br>
+  <img src="https://files.fm/thumb_show.php?i=ceregk5e3">
+  2. Clique em editar arquivo<br>
+  3. Adicione as alterações no conteúdo do arquivo, basta adicionar mais texto ao arquivo.<br>
+  <img src="https://files.fm/thumb_show.php?i=eragvbugx">
+  5. Descer até o final da página e dar um nome ao seu Commit e também comentário. <br>
+  6. Clicar no botão **Commit Changes**<br>
+ <img src="https://files.fm/thumb_show.php?i=j8v8nv2uh">
+  7. Execute no Git Bash o comando <code>git pull</code>
+
+<img src="https://files.fm/thumb_show.php?i=sgunmjnn5">
