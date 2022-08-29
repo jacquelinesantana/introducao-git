@@ -62,7 +62,9 @@ Dica: leia o passo a passo e depois siga os passos com calma atentando-se de nã
 <img src="https://files.fm/thumb_show.php?i=b2xhawug7">
 Após criar o repositório vamos ter a visualização do mesmo, note que a primeira tela após a criação do repositório já nos trás algumas instruções e linhas de códigos que vamos melhor entender nos próximos passos<br>
 <img src="https://files.fm/thumb_show.php?i=ph8x9vaeg">
-## Conectar o repositório do Github com o seu diretório local 
+<br>
+
+## Conectar o repositório do Github com o seu diretório local
 <br>Vale destacar que poderemos ter diversos repositórios em nosso GitHub e desta forma organizar nossos projetos/serviços, crie quantos repositórios forem necessários.<br>
 
 1. Confirme se vc iniciou o seu Gitbash no diretório correto, acima sugerimos criar o diretório git-testes, vamos utilizar esse diretório
