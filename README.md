@@ -131,3 +131,11 @@ Após criar o repositório vamos ter a visualização do mesmo, note que a prime
   7. Execute no Git Bash o comando <code>git pull</code>
 
 <img src="https://files.fm/thumb_show.php?i=sgunmjnn5">
+<br>
+_Faça o teste, abra novamente em seu computador o arquivo que foi alterado diretamente no Github e veja se as linhas adicionadas então ali._
+<br>
+_Lembre-se que programar exige calma, atenção aos detalhes e persistência. Leia a faça com calma os passos aqui sugeridos._
+<br>
+_Em caso de erros você pode copiar a mensagem de erro e fazer uma pesquisa no Google ou chamar seus instrutores._
+<br> 
+Bons códigos e sucesso!
