@@ -142,3 +142,17 @@ Após criar o repositório vamos ter a visualização do mesmo, note que a prime
 Bons códigos e sucesso!<br>
 Links úteis:
 <a href="https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A">https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A</a>
+
+## Revisando os conceitos de como subir meus arquivos no Github
+
+1. primeiro precisamos definir a pasta do nosso computador que vamos trabalhar
+2. criar o diretório dentro do Github que vamos trabalhar
+3. iniciar o git bash dentro da pasta local
+4. executar o comando <code>git init</code> dentro do git bash iniciado na sua pasta local
+5. criar o arquivo dentro da pasta local que já iniciamos o git bash
+6. executar o comando <code>git add .</code> para adicionar os arquivos adicionados dentro da pasta ou alterados
+7. executar o comando <code>git commit -m "com o comentário resumido falando da alteração ou do arquivo incluído"
+8. executar o comando <code>git branch -M main</code> para alterar o nome da banch principal caso ela seja master
+9. executar o comando <code>git remote add origin https:seurepositorio-criado-no-github</code> é só copiar do seu repositório esse endereço, na pagina do github
+10. executar o comando <code>git push origin main</code> para ele subir as alterações para o seu repositório no Github
+11. atualizar o navegador na pagina do repositório para confirmar se o arquivo esta lá :)
