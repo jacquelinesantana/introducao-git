@@ -156,3 +156,8 @@ Links úteis:
 9. executar o comando <code>git remote add origin https:seurepositorio-criado-no-github</code> é só copiar do seu repositório esse endereço, na pagina do github
 10. executar o comando <code>git push origin main</code> para ele subir as alterações para o seu repositório no Github
 11. atualizar o navegador na pagina do repositório para confirmar se o arquivo esta lá :)
+  
+### Dúvidas 
+1. Por que devo criar uma pasta local?
+  Porque precisamos ter um local definido como inicio, se criarmos por exemplo o inicio dentro da pasta C:/ que é a raiz do diretório local no Windows, corremos o risco de subir TODOS OS ARQUIVOS da máquina na internet o que seria um grave erro
+2. 
