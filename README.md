@@ -164,4 +164,3 @@ Links úteis:
 ### Dúvidas 
 1. Por que devo criar uma pasta local?
   Porque precisamos ter um local definido como inicio, se criarmos por exemplo o inicio dentro da pasta C:/ que é a raiz do diretório local no Windows, corremos o risco de subir TODOS OS ARQUIVOS da máquina na internet o que seria um grave erro
-2. 
